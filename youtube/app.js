@@ -5,3 +5,5 @@ const boolean = true;
 if (boolean) {
   const a = 'sss';
 }
+
+const boolean2 = true;
